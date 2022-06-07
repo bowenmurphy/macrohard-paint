@@ -19,7 +19,7 @@ public class Paint extends Application {
     }
 
     public static void main(String[] args) {
-        System.out.println("tragedy is about to ensue");
+        launch(args);
     }
         
     
