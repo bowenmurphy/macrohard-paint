@@ -1,4 +1,4 @@
-package Paint;
+package paint;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
